@@ -1,0 +1,4 @@
+void CreateFuntic()
+{
+	var _svin = new Funtic();
+}
